@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digizijn-machine.github.io/snippets-b8j2ys/sitemap.xml
